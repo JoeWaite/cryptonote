@@ -74,7 +74,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "binkcoin";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001ffffffffffff01029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121013946215230c1f519b99c3bc75304369f42ac42f73bb2cc4dba68b25ff7fe3769";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
