@@ -19,7 +19,7 @@ libqt5webkit5-dev qttools5-dev-tools qt5-default python-sphinx
 texlive-latex-base inotify-tools openssl libssl-dev libdb++-dev
 libminiupnpc-dev git sqlite3 libsqlite3-dev g++ libpng-dev gedit python gcc
 make libbz2-dev libdb-dev libssl-dev libreadline-dev autoconf libtool
-libleveldb-dev libblkid-dev e2fslibs-dev libboost-all-dev libaudit-dev
+libleveldb-dev libblkid-dev e2fslibs-dev libaudit-dev
 automake nano qtbase5-dev qt4-dev-tools libqt4-core libqt4-gui libboost1.55-all-dev git
 
 ### First step. Give a name to your coin
